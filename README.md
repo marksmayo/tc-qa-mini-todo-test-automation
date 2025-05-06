@@ -80,7 +80,7 @@ Your job is to write test automation for this app using Typescript/Javascript an
 Make sure to include all source code in the repository.
 
 ## Submission
-Please organisee, design and document your code as if it were going into production - then push your changes to the main branch. After you have completed everything please share a link with our Team.
+Please organise, design and document your code as if it were going into production - then push your changes to the main branch. After you have completed everything please share a link with our Team.
 
 Have fun building! 🚀
 
